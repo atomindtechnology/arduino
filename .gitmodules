@@ -1,8 +1,0 @@
-[submodule "imu_gy_80"]
-	path = imu_gy_80
-	url = git@github.com:atomindtechnology/imu_gy_80.git
-	branch = main
-[submodule "gy_302_bh1750"]
-	path = gy_302_bh1750
-	url = git@github.com:atomindtechnology/gy_302_bh1750.git
-	branch = main
