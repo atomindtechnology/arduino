@@ -1,0 +1,6 @@
+[submodule "sensori/gy_302_bh1750"]
+	path = sensori/gy_302_bh1750
+	url = https://github.com/atomindtechnology/gy_302_bh1750.git
+[submodule "sensori/imu_gy_80"]
+	path = sensori/imu_gy_80
+	url = https://github.com/atomindtechnology/imu_gy_80.git
