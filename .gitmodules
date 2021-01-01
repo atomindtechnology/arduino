@@ -4,3 +4,9 @@
 [submodule "sensori/imu_gy_80"]
 	path = sensori/imu_gy_80
 	url = https://github.com/atomindtechnology/imu_gy_80.git
+[submodule "sensori/pms_5003"]
+	path = sensori/pms_5003
+	url = https://github.com/atomindtechnology/pms_5003.git
+[submodule "sensori/dht_22"]
+	path = sensori/dht_22
+	url = https://github.com/atomindtechnology/dht_22.git
