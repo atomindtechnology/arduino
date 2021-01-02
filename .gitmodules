@@ -7,3 +7,6 @@
 [submodule "sensori/dht_22"]
 	path = sensori/dht_22
 	url = https://github.com/atomindtechnology/dht_22.git
+[submodule "sensori/imu_gy_801"]
+	path = sensori/imu_gy_801
+	url = https://github.com/atomindtechnology/imu_gy_801.git
