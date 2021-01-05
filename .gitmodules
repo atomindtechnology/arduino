@@ -10,3 +10,6 @@
 [submodule "sensori/imu_gy_801"]
 	path = sensori/imu_gy_801
 	url = https://github.com/atomindtechnology/imu_gy_801.git
+[submodule "moduli/lettore_micro_SD_TF"]
+	path = moduli/lettore_micro_SD_TF
+	url = https://github.com/atomindtechnology/lettore_micro_SD_TF.git
